@@ -14,6 +14,96 @@ function logID() {
 
 vectorGraphic.addEventListener('click', logID)
 
+
+{
+    const vectorGraphic = document.querySelector('#Layer_2')
+
+function logID() {
+    console.log('clicked on Home SVG Vector:', this.id);
+} 
+
+vectorGraphic.addEventListener('click', logID)
+
+}
+
+{
+    const vectorGraphic = document.querySelector('#Layer_3')
+
+function logID() {
+    console.log('clicked on Home SVG Vector:', this.id);
+} 
+
+vectorGraphic.addEventListener('click', logID)
+
+}
+
+{
+    const vectorGraphic = document.querySelector('#Layer_4')
+
+function logID() {
+    console.log('clicked on Home SVG Vector:', this.id);
+} 
+
+vectorGraphic.addEventListener('click', logID)
+
+}
+
+{
+    const vectorGraphic = document.querySelector('#Layer_5')
+
+function logID() {
+    console.log('clicked on Home SVG Vector:', this.id);
+} 
+
+vectorGraphic.addEventListener('click', logID)
+
+}
+
+{
+    const vectorGraphic = document.querySelector('#Layer_6')
+
+function logID() {
+    console.log('clicked on Home SVG Vector:', this.id);
+} 
+
+vectorGraphic.addEventListener('click', logID)
+
+}
+
+{
+    const vectorGraphic = document.querySelector('#Layer_7')
+
+function logID() {
+    console.log('clicked on Home SVG Vector:', this.id);
+} 
+
+vectorGraphic.addEventListener('click', logID)
+
+}
+
+{
+    const vectorGraphic = document.querySelector('#Layer_8')
+
+function logID() {
+    console.log('clicked on Home SVG Vector:', this.id);
+} 
+
+vectorGraphic.addEventListener('click', logID)
+
+}
+
+{
+    const vectorGraphic = document.querySelector('#Layer_9')
+
+function logID() {
+    console.log('clicked on Home SVG Vector:', this.id);
+} 
+
+vectorGraphic.addEventListener('click', logID)
+
+}
+
+
 // Call Icon //
 
 function logID() {
